@@ -1,10 +1,13 @@
 package com.siemens.impl;
 
 import com.siemens.utils.Cal;
+import org.springframework.stereotype.Component;
 
 /**
  * <p>Create Time: 2022年02月25日 13:37          </p>
  **/
+
+@Component
 public class CalImpl implements Cal {
 
 
